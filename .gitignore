@@ -1,0 +1,6 @@
+wenv
+env
+wenv/
+env/
+__pycache__
+.env

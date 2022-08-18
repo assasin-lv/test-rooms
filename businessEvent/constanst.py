@@ -1,0 +1,12 @@
+TYPE_PUBLIC = '1'
+TYPE_PRIVATE = '2'
+
+TYPE_EVENT_CHOICES = (
+    (TYPE_PUBLIC, "Public"),
+    (TYPE_PRIVATE, "Privado"),
+)
+
+
+
+N_ROOMS = 10
+M_CAPACITY = 12
